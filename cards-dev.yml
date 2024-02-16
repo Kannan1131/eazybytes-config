@@ -1,10 +1,10 @@
 build:
   version: 1.0
 cards:
-  message: "Welcome to Cards Microservices in Local environment"
+  message: "Welcome to Cards Microservices in local environment"
   contactDetails:
     name: "Kannan TS"
-    email: "c66e2b18828a951734c4a143cd62adadac0eb1aaf172f0ea900b2ee00601b0c3d8131e9a7ea848e43f112d6dc5744400"
+    email: "{cipher}c66e2b18828a951734c4a143cd62adadac0eb1aaf172f0ea900b2ee00601b0c3d8131e9a7ea848e43f112d6dc5744400"
   onCallSupport:
     - (555) 589 0001
     - (555) 987 8888
