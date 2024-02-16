@@ -4,7 +4,7 @@ loans:
   message: "Welcome to Loans Microservice in QA environment"
   contactDetails:
     name: "Sanjai TS"
-    email: "sanjai123@gmail.com"
+    email: "fca98513c91bab85bb206e8a345c96b80b6a86048f0c252972349c3ff2cb7a98ae2d70e77fc2572eaa67eb00c08c07ca"
   onCallSupport:
     - (555) 567 9876
     - (555) 789 0987
