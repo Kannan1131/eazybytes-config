@@ -4,7 +4,7 @@ accounts:
   message: "Welcome to accounts microservices in local environment."
   contactDetails:
     name: "Kannan TS"
-    email: "kannan123@eazybytes.com"
+    email: "c66e2b18828a951734c4a143cd62adadac0eb1aaf172f0ea900b2ee00601b0c3d8131e9a7ea848e43f112d6dc5744400"
   onCallSupport:
     - (555) 567 8901
     - (555) 588 6754
