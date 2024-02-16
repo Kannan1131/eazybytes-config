@@ -1,0 +1,12 @@
+build:
+  version: 1.0
+cards:
+  message: "Welcome to Cards Microservices in Local environment"
+  contactDetails:
+    name: "Kannan TS"
+    email: "kannan123@eazybytes.com"
+  onCallSupport:
+    - (555) 589 0001
+    - (555) 987 8888
+
+    

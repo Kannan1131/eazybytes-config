@@ -1,0 +1,12 @@
+build:
+  version: 3.0
+cards:
+  message: "Welcome to Cards Microservices in Prod environment"
+  contactDetails:
+    name: "Sanjai TS"
+    email: "sanjai123@eazybytes.com"
+  onCallSupport:
+    - (555) 589 0001
+    - (555) 987 8888
+
+    

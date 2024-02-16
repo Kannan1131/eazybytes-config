@@ -1,0 +1,10 @@
+build:
+  version: 3.0
+accounts:
+  message: "Welcome to accounts microservices in production environment."
+  contactDetails:
+    name: "Sanjai TS"
+    email: "sanjai123@eazybytes.com"
+  onCallSupport:
+    - (555) 567 8901
+    - (555) 588 6754

@@ -1,0 +1,22 @@
+build:
+  version: 1.0
+loans:
+  message: "Welcome to Loans Microservice in Local environment"
+  contactDetails:
+    name: "Kannan TS"
+    email: "kannan123@gmail.com"
+  onCallSupport:
+    - (555) 567 9876
+    - (555) 789 0987
+
+
+
+
+
+
+
+
+
+
+
+

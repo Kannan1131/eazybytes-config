@@ -1,0 +1,10 @@
+build:
+  version: 2.0
+accounts:
+  message: "Welcome to accounts microservices in QA environment."
+  contactDetails:
+    name: "Gokil TS"
+    email: "gokil123@eazybytes.com"
+  onCallSupport:
+    - (555) 567 8901
+    - (555) 588 6754
