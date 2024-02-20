@@ -1,7 +1,7 @@
 # MySQL Configuration
 spring:
   datasource:
-    uri: jdbc:mysql://localhost:3306/bankdb
+    url: jdbc:mysql://localhost:3306/bankdb
     username: root
     password: root
     driverClassName: com.mysql.cj.jdbc.Driver
