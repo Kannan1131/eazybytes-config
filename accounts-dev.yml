@@ -3,6 +3,7 @@ spring:
     url: jdbc:h2:mem:devdb
     username: test
     password: test123
+    driver-class-name: org.h2.Driver
   h2:
     console:
       enabled: true
