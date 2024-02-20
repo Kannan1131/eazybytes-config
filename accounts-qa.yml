@@ -1,12 +1,22 @@
+# MySQL Configuration
 spring:
   datasource:
     uri: jdbc:mysql://localhost:3306/bankdb
     username: root
     password: root
+    driverClassName: com.mysql.cj.jdbc.Driver
+    h2:
+      console:
+        enabled: false
   jpa:
     show-sql: true
     hibernate:
       ddl-auto: update
+# Disable H2 console and other H2 related properties
+  h2:
+    console:
+      enabled: false
+      
 build:
   version: 2.0
 accounts:
