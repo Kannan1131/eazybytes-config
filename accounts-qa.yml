@@ -3,9 +3,10 @@ spring:
     uri: jdbc:mysql://localhost:3306/bankdb
     username: root
     password: root
-  sql:
-    init:
-      mode: always
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
 build:
   version: 2.0
 accounts:
