@@ -7,6 +7,10 @@ spring:
   h2:
     console:
       enabled: true
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
 build:
   version: 1.0
 accounts:
