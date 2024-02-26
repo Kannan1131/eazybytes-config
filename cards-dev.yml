@@ -1,7 +1,22 @@
+# H2 configuration
+spring:
+ datasource:
+  url: jdbc:h2:mem:devdb
+  username: dev
+  password: dev
+  driver-class-name: org.h2.Driver
+ h2:
+  console:
+   enabled: true
+ jpa:
+  show-sql: true
+  hibernate:
+   ddl-auto: update
+
 build:
   version: 1.0
 cards:
-  message: "Welcome to Cards Microservices in local docker environment"
+  message: "Welcome to Cards Microservices in local environment"
   contactDetails:
     name: "Kannan TS"
     email: "{cipher}c66e2b18828a951734c4a143cd62adadac0eb1aaf172f0ea900b2ee00601b0c3d8131e9a7ea848e43f112d6dc5744400"
